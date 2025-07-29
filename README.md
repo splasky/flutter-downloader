@@ -1,6 +1,6 @@
 # flutter-downloader
 
-A new Flutter project.
+Flutter downloader. A downloader to download something in flutter.
 
 ## Getting Started
 
